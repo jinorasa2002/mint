@@ -58,4 +58,4 @@ if (PHP_SAPI == "cli") {
     echo "cli";
 }
 
-echo "<h2>齐活！功德无量！all done!</h2>";
+echo "齐活！功德无量！all done!";
